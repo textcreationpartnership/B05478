@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, against the importing victual or cattel from Ireland</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05478</idno>
+            <idno type="STC">Wing S1612A</idno>
+            <idno type="STC">ESTC R183348</idno>
+            <idno type="EEBO-CITATION">53299262</idno>
+            <idno type="OCLC">ocm 53299262</idno>
+            <idno type="VID">179996</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05478)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179996)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2810:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, against the importing victual or cattel from Ireland</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1689-1694 : William and Mary)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>Anno Dom. 1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Title vignette: royal seal with initials W R.</note>
+                  <note>Initial letter.</note>
+                  <note>Intentional blank spaces in text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foreign trade regulation --  Scotland --  Early works to 1800.</term>
+               <term>Food law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Animal industry --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Foreign economic relations --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  Foreign economic relations --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:179996:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <head>
+               <hi>PROCLAMATION</hi>
+               <lb/>
+Againſt the Importing Victual or Cattel from <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">W</seg>ILLIAM and MARY by the Grace of GOD, <hi>King</hi> and <hi>Queen</hi> of Great-<hi>Britain, France</hi> and <hi>Ireland,</hi> Defenders of the Faith,</signed>
+               <salute>To  <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>  Macers of Our Privy Council, or Meſſengers at Arms, Our Sheriffs in that part, Conjunctly and Severally, Specially Conſtitute, Greeting:</salute>
+            </opener>
+            <p>Foraſmuch as the Importing of Victual; Horſe and Cowes from <hi>Ireland</hi> into this Kingdom, hath been by divers Laws and Acts of Parliament, made in the time of Our Royal Predeceſſors Diſcharged under great Pains, notwithſtand<g ref="char:EOLhyphen"/>ing whereof, and by Reaſon of the unſettled State of both Kingdoms, the Obſervation of the ſaids Laws hath been of late much neglected; And We being reſolved, that due and exact Obedience ſhall be given to the ſaids Laws for the time to come, and that they ſhall be Execute with all Rigour, againſt ſuch as Tranſgreſs the ſame: Therefore, We with Advice of the Lords of Our Privy Council, Strictly Prohibite and Diſcharge the Importing of any Meal, or other Victual whatſomever, or of any Horſe, Mares, or Cowes from the ſaid Kingdom of <hi>Ireland</hi> into this Kingdom, either by the Natives thereof, or Inhabitants in <hi>Ireland,</hi> or any other Foraigners whatſomever, from, and after the Day and Date hereof, under the Pains and Penalties following, <hi>viz.</hi> as to the Importing of any Meal and other Victual, that all the Meal and Victual which ſhall be Imported, ſhall be Sunk and Deſtroyed; And the Seizer or Diſcoverer, for his Reward ſhall have the Boat, Bark, or Veſſel, wherein the ſaid Meal or Victual ſhall be Imported, to Diſpoſe of at his pleaſure, Conform to the fourteenth Act of the Parliament 1686: As alſo, the half of the Fines Impoſed upon the Importers, Reſetters, and Heretors by the third Act, third Seſſion, Parliament <hi>ſecond, Charles</hi> Second; And as to the Importing Horſes, Cowes, and other Cattel, that no Horſe, Mart, Cowes, or other Cattel whatſomever, ſhall be Imported from <hi>Ireland</hi> to this Kingdom, under the Pain and Penaltie of Forefaulting thereof; and ſurder, under the pain of paying the Sum of an Hundred Merks <hi>Scots</hi> for each Beaſt that ſhall be ſo Imported, the one half of both the Beaſts and Fines, to belong to the Seizer and Diſcoverer, and the other half to Us and Our Theſaury: And We with Advice foreſaid, Prohibite and Diſcharge any Perſon, or Perſons whatſomever, to Buy, Uſe, or Retail any <hi>Iriſh</hi> Meal, or Victual, or Reſet, or Buy any Horſes, Mares, or Nolt, that they know to be Imported out of <hi>Ireland,</hi> after the Day foreſaid, under the Pains Contained in the ſaids Acts of Parliament. And We with Advice foreſaid, have Nominate and Appointed <hi>David Craufoord</hi> of <hi>Drumſuie,</hi> to ſee the foreſaids Acts of Parliament made againſt Importing of <hi>Iriſh</hi> Victual, Vigorouſly put to Execu<g ref="char:EOLhyphen"/>tion, during ſuch time and ſpace as Our Privy Council ſhall think Fit, with Power to him to appoint Servants, and others under him, to attend in all Places, betwixt the Head of <hi>Kintire</hi> and <hi>Lochryan,</hi> and from <hi>Lochryan</hi> to <hi>Dumfreis</hi> for the more Effectual performing, and Diſcharging their Duty in the Premiſſes. OUR WILL IS HEREFORE, And We Charge you Straitlie, and Com<g ref="char:EOLhyphen"/>mand, that Incontinent theſe Our Letters ſeen, ye paſs to the Mercat-Croſs of <hi>Edinburgh,</hi> and to the Mercat-Croſs of the Burghs of <hi>Glaſ<g ref="char:EOLhyphen"/>gow</hi> and <hi>Dumfreis,</hi> and of the Head-Burghs of the ſeveral Shires within that Bounds, and thereat make Publick Intimation of Our Plea<g ref="char:EOLhyphen"/>ſure in the Premiſſes, that none may pretend Ignorance; And Ordains theſe Preſents to be Printed.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh,</hi> 
+                  <date>the Thirteenth Day of <hi>March,</hi> and of Our Reign the Fifth Year, 1694.</date>
+               </dateline>
+               <signed>Per Actum Dominorum Secreti Concilii. <hi>GILB. ELIOT,</hi> Cls. Sti. Concilii.</signed>
+               <lb/>
+GOD Save the King.</closer>
+         </div>
+         <div type="reestablishment_of_royal_proclamation">
+            <opener>
+               <dateline>EDINBURGH, <date>September 8. 1697.</date>
+               </dateline>
+            </opener>
+            <p>THe Lords of His Majeſties Privy Council, do hereby Revive the foreſaid <hi>Proclamation</hi> emitted by their Lordſhips upon <hi>March</hi> the <hi>Thirteenth,</hi> 1694, <hi>Intituled a</hi> Proclamation <hi>againſt the Importing of Victual, or Cattel from</hi> Ireland: And Ordains the ſame to be put to farder Execution in all Points. And Ordains it to be Re-printed, and again Publiſhed at the Head-Burghs upon the <hi>Weſtern-Coasts:</hi> And appoints His Majeſties Solicitor to cauſe Tranſmitt Printed Coppies thereof to the ſeveral Offices of His Majeſties Foraign Cuſtom and Exciſe where there is a Collector; And appoints the Collectors to affix a Printed Coppie of the ſaid <hi>Proclamation</hi> upon their ſeveral Offices: And Ordains thir Preſents to be Printed with the ſaid <hi>Proclamation,</hi> and to be ſent and affixt as the ſaid <hi>Proclamation</hi> it ſelf, to the Effect that none may pretend Ignorance.</p>
+            <closer>
+               <signed>
+                  <hi>GILB. ELIOT,</hi> Cls. Sti. Concilii.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh:</hi> Printed by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi> Printer to the Kings moſt Excellent Majeſty, <hi>Anno DOM<g ref="char:punc">▪</g>
+               </hi> 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
